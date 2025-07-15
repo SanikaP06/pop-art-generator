@@ -169,7 +169,7 @@ export default function PopArtGenerator() {
             <h1 className="text-7xl md:text-8xl font-bold text-transparent bg-gradient-to-r from-yellow-300 via-pink-400 to-cyan-300 bg-clip-text mb-2">
               popART
             </h1>
-            <p className="text-3xl md:text-4xl text-pink-400 mb-8">POP ART GENERATOR</p>
+            <p className="text-3xl md:text-4xl text-pink-400 mb-8">Create your own POP ART</p>
             {!hasClickedGenerateOnce ? (
               // Initial view: Prominent Generate button
               <Button
